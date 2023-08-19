@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node JS and TypeScript 
 - 🤔 I’m looking for opportunites to improve my development skills 
 - 📫 How to reach me: kingsuk2k@gmail.com | [Linkedin](https://www.linkedin.com/in/kingsuk-biswas/)
+- 🔗 [LeetCode](https://leetcode.com/kingsuk2k/) | [GeekforGeeks](https://auth.geeksforgeeks.org/user/kingsuk2k/practice)
 
 ### Tech Stack:
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
