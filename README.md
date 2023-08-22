@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   </p>
 
 #### Familiar
+- AWS Services
 - Flask
 - TypeScript
 - RabbitMQ
