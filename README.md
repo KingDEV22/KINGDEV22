@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🎓 I have graduated in B-Tech CSE
-- 🧑‍💻 I am dedicated and motivatedsoftware engineer
-- 🌱 I’m currently learning LLM model and NLP to work on a project. 
+- 🧑‍💻 I am dedicated and motivated software engineer
+- 🌱 I’m currently working on NLP and transformer models to build a project. 
 - 🤔 I’m looking for job opportunites to improve my development skills. 
 - 📫 How to reach me: kingsuk2k@gmail.com | [Linkedin](https://www.linkedin.com/in/kingsuk-biswas/) | [Portfolio Website](https://kingsuk-biswas.onrender.com)
 - 🔗 [LeetCode](https://leetcode.com/kingsuk2k/) | [GeekforGeeks](https://auth.geeksforgeeks.org/user/kingsuk2k/practice)
@@ -32,11 +32,13 @@ Here are some ideas to get you started:
 
 #### Familiar
 - AWS Services (Lambda, S3, Cloudformation, AppConfig, CloudWatch, CodeDeploy, CodePipeline)
+- Machine Learning
+- NLP(Natural Language Model)
+- Transformer models(BERT, RoBERTa, etc)
+- Deep Learning
 - Flask
 - TypeScript
 - RabbitMQ
-- MySQL
 - MongoDB
-- Machine Learning
 
 
