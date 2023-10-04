@@ -11,7 +11,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for job opportunites to improve my development skills. 
 - 📫 How to reach me: kingsuk2k@gmail.com | [Linkedin](https://www.linkedin.com/in/kingsuk-biswas/) | [Portfolio Website](https://kingsuk-biswas.onrender.com)
 - 🔗 [LeetCode](https://leetcode.com/kingsuk2k/) | [GeekforGeeks](https://auth.geeksforgeeks.org/user/kingsuk2k/practice)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingDEV22)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingDEV22)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ### Tech Stack:
 - C
 - Java
