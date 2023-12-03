@@ -2,7 +2,7 @@
 
 I'm a passionate and dedicated software engineer with a B-Tech in Computer Science. I'm currently exploring new technologies for an exciting project and actively seeking job opportunities to enhance my development skills.
 
-🌱 **Currently working on:**  ![Pygame](https://img.shields.io/badge/Learning%20game%20development%20Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🌱 **Currently working on:**  JavaScript- Node JS
 
 📫 **How to reach me:** kingsuk2k@gmail.com 
 
